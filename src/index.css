@@ -1,0 +1,152 @@
+body {
+  background-color: #FFFEF4;
+  background: url('https://cdn.pixabay.com/photo/2020/08/26/09/18/chess-5519065_960_720.jpg') no-repeat center center fixed;
+  -webkit-background-size: 100%;
+          -moz-background-size: 100%;
+              -o-background-size: 100%;
+                  background-size: 100%;
+                      -webkit-background-size: cover;
+                          -moz-background-size: cover;
+                              -o-background-size: cover;
+                                  background-size: cover;
+}
+
+/* board-component/ChessBoardWrapper */
+.chess-board-wrapper { /* Nothing yet */ }
+
+
+.home_dec{
+	color: white;
+	font-size: 1.5rem;
+	
+}
+
+/* board-component/TimeDetails */
+.timer-details-wrapper { /* Nothing yet */ }
+
+.highlight-clock {
+	background-color: rgb(214 211 209);
+}
+
+.list-group-item.active{
+	background-color: rgb(98, 93, 93);
+	color: white;
+	opacity: 0.8;
+	border: none;
+	
+}
+
+
+/* board-component/PlayerDetails */
+.player-details-wrapper { /* Nothing yet */ }
+
+.list-group-item-action:hover{
+	background-color: #727272;
+	border: none;
+}
+
+
+
+
+/*Navbar*/
+.nav-link.active {
+	border-bottom: 2px solid #ffffff;
+}
+
+.dropdown-button .btn {
+	color: rgb(0, 0, 0);
+	background-color: #898989;
+	width: 50%;
+	/*border: solid;*/
+	opacity: .8;
+}
+
+
+/*Board*/
+.hand-icon {
+	cursor: pointer;
+}
+
+.hand-icon:hover {
+	color: gray;
+}
+
+.hand-icon:active {
+	color: orange;
+}
+
+
+.highlight-move {
+	background-color: rgb(153 246 228) !important;
+}
+
+.collapse-sidebar-btn {
+	font-size: 30px;
+}
+
+.sidebar-heading {
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+}
+
+.double-left-arrow-wrapper:active {
+	color: white;
+}
+
+.double-left-arrow-wrapper:hover{
+	background: rgb(254 226 226) !important;
+}
+
+.left-arrow-wrapper:active {
+	color: white;
+}
+
+.left-arrow-wrapper:hover{
+	background: rgb(254 226 226) !important;
+}
+
+.double-right-arrow-wrapper:active {
+	color: white ;
+}
+
+.double-right-arrow-wrapper:hover{
+	background: rgb(254 226 226) !important;
+}
+
+.right-arrow-wrapper:active {
+	color: white ;
+}
+
+.right-arrow-wrapper:hover{
+	background: rgb(254 226 226) !important;
+}
+.sidebar-games{
+	color: white !important;
+}
+.table{
+	color: white;
+}
+.table:hover{
+	color: white !important;
+}
+.form-control{
+	background-color: #898989;
+	border: none !important;;
+}
+.form-control:focus-within{
+	background-color: #898989;
+	border: none;
+	color: white !important;;
+}
+.player_card{
+	background-color: #898989;
+	
+}
+.card-img-top{
+	opacity: 1;
+}
+.list-group-item{
+	background-color: #727272;
+	
+}
