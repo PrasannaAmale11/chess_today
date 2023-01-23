@@ -1,3 +1,3 @@
-# ChessTOday
+# ChessToday
 
 
