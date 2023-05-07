@@ -13,8 +13,8 @@ The game is powered by a chess engine that uses the minimax algorithm with alpha
 So, if you're ready to test your chess skills, give Chess Today a try!
 
 
-<h3>Preview</h3>
-![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/110029115/236690254-90ab45f8-0cb1-44e7-b458-cee6ed987981.gif)
+
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/110029115/236690306-9b1f53e3-6454-48e5-bc56-2b9c92cb0871.gif)
 
 
 
